@@ -1,0 +1,23 @@
+{
+  "name": "@programmedarts/recital",
+  "version": "1.0.0",
+  "description": "Chord playing program",
+  "main": "index.js",
+  "dependencies": {
+    "tone": "^0.12.80"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgrammedArts/recital.git"
+  },
+  "author": "detri_pa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProgrammedArts/recital/issues"
+  },
+  "homepage": "https://github.com/ProgrammedArts/recital#readme"
+}
